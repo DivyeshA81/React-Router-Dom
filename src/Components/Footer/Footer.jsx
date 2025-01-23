@@ -155,10 +155,6 @@ const Footer = () => {
                 </Link>
             </div>
         </div>
-        <div>
-            fjhgahfvbafnsdfnefebfvejvn
-
-            </div>
     </div>
 </footer>
   )
